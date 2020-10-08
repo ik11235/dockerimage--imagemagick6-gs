@@ -1,0 +1,1 @@
+# imagemagick6-gs-dockerimage
